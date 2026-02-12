@@ -1,0 +1,17 @@
+{
+  "numeroSocio": 1,
+  "nombre": "Rodrigo",
+  "apellidos": "García",
+  "contacto": {
+    "telefonoMovil": 666222666,
+    "telefonoFijo": 917174256,
+    "email": "rod@gmail.com"
+  },
+  "direccion": {
+    "calle": "suficiente",
+    "ciudad": "Madrid",
+    "codigoPostal": 28000
+  },
+  "dni": "01233123A",
+  "fechaAlta": "11-02-2026"
+}
